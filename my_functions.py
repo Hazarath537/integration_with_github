@@ -6,3 +6,6 @@ def factorial(n):
 def square(x):
 	y = x**2
 	return y
+
+def cube(x):
+    return x*x*x
