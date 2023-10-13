@@ -4,4 +4,5 @@ def factorial(n):
 	else:
 		return n*factorial(n-1)
 def square(x):
-	return x*x
+	y = x**2
+	return y
