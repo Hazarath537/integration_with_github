@@ -3,3 +3,5 @@ def factorial(n):
 		return n
 	else:
 		return n*factorial(n-1)
+def square(x):
+	return x*x
